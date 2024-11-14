@@ -1,6 +1,6 @@
 
 public class PrimeChecker { 
-    public static boolean isPrime1(int x){
+    public static boolean isPrime(int x){
         
         if (x % 2 != 0) {
             return true;
